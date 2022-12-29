@@ -47,4 +47,5 @@ final_sample.csv
 단어 빈도 
 
 ### Tableu
+![image](https://user-images.githubusercontent.com/89527573/209967295-d090f2be-52b4-418c-846b-4a1e32882a52.png)
 https://public.tableau.com/app/profile/.75641703/viz/_16708103803200/1
