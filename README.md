@@ -1,4 +1,4 @@
-#프로젝트 설명
+#프로젝트 설명(서강대학교 빅데이터기반마케팅 2차 과제)
 -----
 ## 개요
 ----
@@ -15,6 +15,11 @@
 ## 분석 과정
 ----
 ![image](https://user-images.githubusercontent.com/89527573/209966604-5970367f-df1b-4dff-9fe6-27bf10773f13.png)
+
+#### 클러스터링 예시
+----
+![image](https://user-images.githubusercontent.com/89527573/209966831-1f5f04c8-0fe6-4781-875c-5e517f7044fc.png)
+![image](https://user-images.githubusercontent.com/89527573/209966914-1f77e358-9db9-4afc-a005-2cb0783215af.png)
 
 
 #코드설명
